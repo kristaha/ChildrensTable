@@ -15,14 +15,6 @@ print("Hello World")
 
 
 
-
-
-
-
-
-	
-i
-
 	
 	
 
